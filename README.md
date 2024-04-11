@@ -13,7 +13,7 @@ $ git clone https://github.com/omnitx/pixiwps-install
 
 $ cd pixiwps-install
 
-$ python Install.py
+$ python install.py
 ```
 # PIXIWPS Repo
 
