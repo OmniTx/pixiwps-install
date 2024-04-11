@@ -1,8 +1,8 @@
-# OmniTx
-### PIXIWPS WPS Attack
+# PIXIWPS ATTACK WIFI
+### OMNITX STUDIOS
 ### ROOT access is REQURED
   
-   🙋 MANUAL INSTALL:
+   🙋 INSTALL instruction:
 
 ```
 $ pkg update && pkg upgrade
@@ -11,9 +11,7 @@ $ pkg install git python
 
 $ git clone https://github.com/omnitx/pixiwps-install
 
-$ cd pixiwps-install
-
-$ python install.py
+$ python pixiwps/install.py
 ```
 # PIXIWPS Repo
 
