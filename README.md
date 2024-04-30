@@ -11,7 +11,7 @@ $ pkg install git python
 
 $ git clone https://github.com/omnitx/pixiwps-install
 
-$ python pixiwps/install.py
+$ python pixiwps-install/install.py
 ```
 # PIXIWPS Repo
 
